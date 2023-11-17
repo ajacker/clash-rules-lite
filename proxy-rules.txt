@@ -231,3 +231,4 @@ payload:
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,idleslayer.com 
   - PROCESS-NAME,Idle Slayer.exe 
+  - DOMAIN-SUFFIX,oaistatic.com
