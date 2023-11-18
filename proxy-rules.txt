@@ -232,3 +232,4 @@ payload:
   - DOMAIN-SUFFIX,idleslayer.com 
   - PROCESS-NAME,Idle Slayer.exe 
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,mod.io
