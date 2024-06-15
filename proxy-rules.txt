@@ -233,3 +233,4 @@ payload:
   - PROCESS-NAME,Idle Slayer.exe 
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,mod.io
+  - DOMAIN-SUFFIX,maven.architectury.dev
